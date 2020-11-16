@@ -38,10 +38,7 @@ Most of them will serve the purpose of reference / documentation to me, but mayb
 
 * [bop](https://github.com/liona24/bop) - Educational collection of some (historical) cryptographic attack vectors which are (may be) useful if you are a) learning or b) solving simple *crypto-challenges*.
 * [angr-examples](https://github.com/liona24/angr-examples) - Personal collection of simple [angr](https://github.com/angr/angr) usage examples
-* *Writeups*
-  - [Square CTF 2019](https://github.com/liona24/square-ctf-2019-writeups)
-  - [Tyumen CTF 2019](https://github.com/liona24/TyumenCTF2019-writeups)
-  - [Google Beginner CTF 2018](https://github.com/liona24/googleCTF18-beginner-writeup)
+* [Write-Ups](https://github.com/liona24/ctf-writeups) - All the write-ups I once wrote
 
 ##### Other projects of medium importance
 
