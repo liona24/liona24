@@ -1,22 +1,5 @@
 ### Hi there 👋
 
-My name is Lion and it appears you found your way to my GitHub profile!
-
-#### 🔭 Stuff I am interested in
-
-Personally I'd consider myself a Jack of all trades, master of none.
-Interests include, but surely are not limited to:
-- [x] Rust, Python
-- [x] Cyber Security
-- [x] Knowledge Engineering
-- [x] Low Level Programming
-- [x] Computer Graphics and Video Games
-
-As a rule of thumb: If I do not know about a topic it generally interests me :)
-
-Currently I am learning about compiler design following the book [Engineering a compiler](https://www.oreilly.com/library/view/engineering-a-compiler/9780080916613/).
-
-
 #### 🌱 Some stuff I did in the past which *may* be of interest to you
 
 Most of them will serve the purpose of reference / documentation to me, but maybe you will find something useful alongside :)
